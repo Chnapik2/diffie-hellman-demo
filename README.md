@@ -1,5 +1,7 @@
 # Demo algortimu Diffie-Hellman
 
+Matěj Pokorný
+
 Demonstrace fungování algoritmu pro  bezpečnou
 výměnu klíčů přes nezabezpečený komunikační
 kanál.

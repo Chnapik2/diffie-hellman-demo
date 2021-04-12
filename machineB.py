@@ -1,3 +1,5 @@
+# Matěj Pokorný, leden 2021
+
 from random import randint
 
 def main():
